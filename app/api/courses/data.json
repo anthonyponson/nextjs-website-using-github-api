@@ -1,0 +1,37 @@
+[
+  {
+    "id":1,
+    "title": "To Kill a Mockingbird",
+    "publishDate": "July 11, 1960",
+    "language": "English",
+    "authorName": "Harper Lee"
+  },
+  {
+    "id":2,
+    "title": "One Hundred Years of Solitude",
+    "publishDate": "June 5, 1967",
+    "language": "Spanish",
+    "authorName": "Gabriel García Márquez"
+  },
+  {
+    "id":3,
+    "title": "1984",
+    "publishDate": "June 8, 1949",
+    "language": "English",
+    "authorName": "George Orwell"
+  },
+  {
+    "id":4,
+    "title": "The Alchemist",
+    "publishDate": "1988",
+    "language": "Portuguese",
+    "authorName": "Paulo Coelho"
+  },
+  {
+    "id":5,
+    "title": "The Catcher in the Rye",
+    "publishDate": "July 16, 1951",
+    "language": "English",
+    "authorName": "J.D. Salinger"
+  }
+]
